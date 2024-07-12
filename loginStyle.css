@@ -67,7 +67,10 @@ button[type="submit"] {
     cursor: pointer;
     font-size: 16px;
 }
-
+.forgot-password:hover {
+    text-decoration: underline;
+    color: #c71f00;
+}
 button[type="submit"]:hover {
     background-color: #c71f00;
 }
